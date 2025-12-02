@@ -1,1 +1,1 @@
-Causal Reasoning Meets Game Theory: Enhancing RAG with Fine-Tuning and Knowledge Interaction
+Causal Reasoning Meets Heuristic Strategies: Enhancing RAG through Fine-Tuning and Knowledge Interaction
